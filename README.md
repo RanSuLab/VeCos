@@ -1,6 +1,6 @@
 # VeCos
 🚀 "VeCoS: A High-Affinity Protein–Ligand Generative Model Guided by Contrastive Dynamics and Chemical Semantics"
-<img src="./img/VeCos_01.png" />
+<img src="./img/VeCos_01.png" >
 
 ### 📢 Announcement
 The code will be uploaded immediately after the paper is officially released.
